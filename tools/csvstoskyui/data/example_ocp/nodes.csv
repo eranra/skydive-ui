@@ -1,0 +1,7 @@
+_kind,_metadata_name,_metadata_labels_node_kubernetes_ioinstance-type,_status_addresses_typeInternalIP_address,_status_nodeInfo_operatingSystem,Cluster
+Node,ip-10-0-128-37.ec2.internal,m4.2xlarge,10.0.128.37,linux,Cluster
+Node,ip-10-0-133-127.ec2.internal,m4.xlarge,10.0.133.127,linux,Cluster
+Node,ip-10-0-151-227.ec2.internal,m4.2xlarge,10.0.151.227,linux,Cluster
+Node,ip-10-0-158-83.ec2.internal,m4.xlarge,10.0.158.83,linux,Cluster
+Node,ip-10-0-160-99.ec2.internal,m4.2xlarge,10.0.160.99,linux,Cluster
+Node,ip-10-0-166-44.ec2.internal,m4.xlarge,10.0.166.44,linux,Cluster
